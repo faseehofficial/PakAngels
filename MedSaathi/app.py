@@ -1097,7 +1097,7 @@ print('agent configured with', len(DECLARATIONS), 'tools')
 # Put a crisis helpline you have PERSONALLY VERIFIED is currently correct here,
 # e.g. 'Umang Pakistan 0311-XXXXXXX'. Leave it as None rather than guessing:
 # an out-of-date crisis number is worse than no number at all.
-CRISIS_HELPLINE = None
+CRISIS_HELPLINE = '1122'
 
 
 def run_agent(user_text, image_bytes=None, language='English', history=None,
