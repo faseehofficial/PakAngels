@@ -70,12 +70,12 @@ openFDA drug label text.
 ## Running locally
 
 ```bash
-export GOOGLE_API_KEY="your-gemini-key"
+export GOOGLE_API_KEY="PRIVATE"
 pip install -r requirements.txt
 python app.py
 ```
 
-Then open the local URL Gradio prints (defaults to `http://127.0.0.1:7860`).
+Then open the local URL Gradio prints (defaults to `http://52.1.116.114:7860`).
 
 Get a free Gemini API key at [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
 — no card required.
