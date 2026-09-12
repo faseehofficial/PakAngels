@@ -1,0 +1,7 @@
+google-genai>=1.0.0
+gradio
+pandas
+numpy
+requests
+sentence-transformers
+pillow
